@@ -1,0 +1,13 @@
+<nav>
+  <ul>
+    <li><a class="clickable site-title" href="{{ site.baseurl }}/">kevin ma</a></li>
+    <li class="spacer"></li>
+    {% for page in site.pages %}{% if page.title %}
+    <li><a class="clickable" href="{{site.url}}{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}{% endfor %}
+    <li><a class="clickable" href="http://kevinyma.com">UX</a></li>
+
+    <li class="spacer"></li>
+
+  </ul>
+</nav>

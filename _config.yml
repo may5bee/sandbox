@@ -1,0 +1,18 @@
+
+title: kevin ma
+email: kevthema@gmail.com
+description:
+url: ""
+baseurl: "/p_me"
+sass:
+  sass_dir: _sass
+collections:
+  projects:
+    output: true
+    permalink: /:path/
+  misc:
+    output: true
+    permalink: /:path/
+include: ['_pages']
+markdown: kramdown
+port: 8888
