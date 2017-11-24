@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "dissection"
+title: "A Rand Hall Dissection"
 description: "Looking at one of Mies van der Rohe's, never built but supremely interesting."
 date: 2013-4-14 09:37:43 +0800
 technologies: Rhino

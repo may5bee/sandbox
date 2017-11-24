@@ -1,7 +1,23 @@
 ---
 layout: default
 ---
+<article class="post helvetica">
+<div>
+{% for project in site.projects reversed%}
+{% if project.title%}{% if project.ignore != "yes" %}
 
+{% if project.altlink %}<a class="proj-link link hover-bg-yellow" href="{{ project.altlink }}">{% else %}  <a class="proj-link link hover-bg-yellow" href="{{ project.url | prepend: site.baseurl }}">{% endif %}
+
+<span class="helvetica f1 fw5">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
+<span class="helvetica light-gray date f1 fw5">&nbsp;{{ project.date | date: '%Y'}}</span>
+<br>
+</a>
+{% endif %}{% endif %}
+{% endfor %}
+
+</div>
+</article>
+<!--
 <canvas resize="true" id="myCanvas" style="background:#FFFFFF"></canvas>
 
 <script type="text/javascript" src="js/paper-full.js"></script>
@@ -134,4 +150,4 @@ function onResize(event){
 }
 
 
-</script>
+</script> -->

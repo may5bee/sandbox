@@ -5,7 +5,6 @@ permalink: /about/
 class: "post"
 contentClass: content
 ---
+Kevin is a designer and developer
 
-Kevin, yesterday.
-
-<img src="{{site.baseurl}}/img/me.jpeg" class="me">
+![Alt]({{site.baseurl}}/img/me.jpg)

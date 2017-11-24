@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+
 permalink: /cv/
 class: "post"
 contentClass: content
@@ -13,13 +13,13 @@ CV
 
 2017 B.A. Information Science, Cornell University, Ithaca, NY
 
-**Publications** 
-  
+**Publications**
+
 Reduct: A Puzzle Game for Children About Evaluating Code
 Ian Arawjo, David Li, Kevin Ma
 CHI EA '17
 
-**Research/Work Experience** 
+**Research/Work Experience**
 
 2016
 Interaction Designer, Guimbretiere Lab, Cornell University, Ithaca, NY
