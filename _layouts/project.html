@@ -1,34 +1,11 @@
 ---
 layout: default
 ---
-<article class="projects helvetica">
-    <p class="f1">{{ page.title }}</p>
+<h1 class="f-subheadline helvetica fw5 ml7 mt3">{{ page.title }}</h1>
+<div class="helvetica w-50 ml7 lh-copy f6">
 
-  <div class="content">
     {{ content }}
-  </div>
- <!-- <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y" }}</time></p> -->
-
-<div class="prevnext">
- {% if page.next.url %}
- 	{% if page.next.ignore == "yes" %}
- 	<a class="prev" href="{{site.baseurl}}{{page.next.next.url}}">&laquo; previous: {{page.next.next.title}}</a>
- 	{% else %}
-    <a class="prev" href="{{site.baseurl}}{{page.next.url}}">&laquo; previous: {{page.next.title}}</a>
- 	{% endif %}
- {% endif %}
- {% if page.previous.url %}{% if page.previous.ignore != "yes" %}
-    <a class="next" href="{{site.baseurl}}{{page.previous.url}}">next: {{page.previous.title}} &raquo;</a>
-  {% endif %}{% endif %}
 
 </div>
-</article>
 
-
-<!-- 	 <h1>Very Fun Facts</h1>
-	<ul>
-		<li>Year: {{ page.date | date: "%Y" }}</li>
-		<li>{% if page.collaborators %}Collaborators: {{ page.collaborators }}{% endif %}</li>
-		<li>{% if page.role %}Role: {{ page.role }}{% endif %}</li>
-		<li>{% if page.technologies %}Technologies: {{page.technologies}}{% endif %}</li>
-	</ul> -->
+{% include previousnext.html %}

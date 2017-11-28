@@ -3,16 +3,14 @@
 
 <!DOCTYPE html>
 <html class="{% if page.css-class %}{{page.css-class}}{%endif%}">
-
   {% include head.html %}
 
   <body>
-
+    {% unless page.title == "Sandbox"%}
     {% include nav.html %}
+    {% endunless %}
 
     {{ content }}
-
-   <!-- include footer.html -->
 
   </body>
 

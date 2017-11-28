@@ -1,0 +1,15 @@
+<div class="fixed fl bottom-2 left-0 helvetica f3">
+ {% if page.next.url %}
+ 	{% if page.next.ignore == "yes" %}
+ 	<a class="prev link hover-bg-yellow" href="{{site.baseurl}}{{page.next.next.url}}">&laquo; previous: {{page.next.next.title}}</a>
+ 	{% else %}
+    <a class="prev link hover-bg-yellow pl2" href="{{site.baseurl}}{{page.next.url}}">&laquo; previous: {{page.next.title}}</a>
+ 	{% endif %}
+ {% endif %}
+</div>
+
+<div class="fixed fr bottom-2 right-0 helvetica f3">
+{% if page.previous.url %}{% if page.previous.ignore != "yes" %}
+   <a class="next link hover-bg-yellow pr2" href="{{site.baseurl}}{{page.previous.url}}">next: {{page.previous.title}} &raquo;</a>
+ {% endif %}{% endif %}
+</div>
