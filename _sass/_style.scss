@@ -207,53 +207,13 @@ canvas {
     margin-bottom: $gap;
 }
 
-article {
-    margin: 85px $gap 100px $nav-width+$gap;
-    z-index: 0;
-    img {
-        width: 100%;
-        white-space:pre;
-    }
-}
-
- .projects {
-    margin: 30px $gap 60px $nav-width+2*$gap;
-    width: 840px;
-    position: relative;
-    }
-
-.content {
-    //font for body stuff here
-    margin-top: 30px;
-}
-
-.misc-post {
-    width: 100%;
-}
-
-.post {
-
-    max-width: 2*$column-width + $gap;
-    margin: 30px 0 50px $nav-width+2*$gap;
-
-}
-
-.projects {
-  margin: 30px 0 50px $nav-width+2*$gap;
-}
-
-h1 {
-    font-size: $title-size;
-    line-height: $title-line-height;
-    font-weight: 500px;
-}
 
 .small {
     font-size: $small-font-size;
     line-height: 1.6;
 }
 
- article {
+.post {
          a {
             text-decoration: underline;
         }
