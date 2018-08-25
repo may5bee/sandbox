@@ -7,8 +7,8 @@ technologies:
 category: physical
 tags:
 permalink: "/field"
+description: Simulating a magnetic field. Click for fun.
 ---
-<div class="fr fixed top-2 right-2 bg-black-80 br4"><p class="measure helvetica lh-copy  ph3 white">Simulating a magnetic field. Click for fun.</p></div>
 
 <canvas class="w-100 h-100" resize="true" id="myCanvas" style="background:#FFFFFF"></canvas>
 

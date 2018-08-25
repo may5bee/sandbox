@@ -1,20 +1,16 @@
 ---
-layout: project
-title: "Starfields"
+layout: full
+title: "Pastel Invaders"
 description: ""
-date: 2016-6-20 09:37:43 +0800
+date: 2016-6-14 09:37:43 +0800
 technologies:
 category: physical
 tags:
+description: Pastel Invaders, inspired by Jared Tarbell's legendary Fractal Invaders. Click to generate.
 ---
 
-<div class="fr fixed top-2 right-2 bg-black-80 br4"><p class="measure helvetica lh-copy  ph3 white">
-Using pseudo-randomness to generate terrain/elevation maps.</p></div>
+<div class="fr fixed top-2 right-2 bg-black-80 br4"><p class="measure helvetica lh-copy  ph3 white"></p></div>
 
-![Alt]({{site.baseurl}}/img/starfield/a1.gif)
+<script src="{{ site.baseurl }}/js/processing.min.js"></script>
 
-![Alt]({{site.baseurl}}/img/starfield/a2.gif)
-
-![Alt]({{site.baseurl}}/img/starfield/a4.gif)
-
-![Alt]({{site.baseurl}}/img/starfield/a5.gif)
+<canvas data-processing-sources="{{ site.baseurl }}/spaceinvaders/spaceinvaders.pde"></canvas>

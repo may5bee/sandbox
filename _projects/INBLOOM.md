@@ -2,7 +2,7 @@
 layout: project
 title: "In Bloom"
 description: ""
-date: 2017-4-14
+date: 2017-10-14
 technologies: Rhino
 category: physical
 tags: architectural design, physical
