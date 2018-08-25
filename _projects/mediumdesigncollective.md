@@ -1,6 +1,6 @@
 ---
 layout: full
-title: A Happy Medium
+title: Medium
 description: ""
 date: 2016-12-01 20:37:43 +0800
 technologies:

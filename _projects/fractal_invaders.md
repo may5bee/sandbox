@@ -9,8 +9,6 @@ tags:
 description: Pastel Invaders, inspired by Jared Tarbell's legendary Fractal Invaders. Click to generate.
 ---
 
-<div class="fr fixed top-2 right-2 bg-black-80 br4"><p class="measure helvetica lh-copy  ph3 white"></p></div>
-
 <script src="{{ site.baseurl }}/js/processing.min.js"></script>
 
-<canvas data-processing-sources="{{ site.baseurl }}/spaceinvaders/spaceinvaders.pde"></canvas>
+<canvas data-processing-sources="{{ site.baseurl }}/assets/spaceinvaders/spaceinvaders.pde"></canvas>

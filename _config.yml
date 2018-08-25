@@ -3,7 +3,7 @@ title: kevin ma
 email: kevthema@gmail.com
 description:
 url: ""
-baseurl: "/experiments"
+baseurl: "/sandbox"
 sass:
   sass_dir: _sass
 collections:

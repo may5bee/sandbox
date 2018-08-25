@@ -7,14 +7,16 @@ technologies: Web
 category: physical
 tags: architectural design, physical
 ---
-Matt Shifrin is a blind high school student; in 2016, he created a system that enables blind and visually impaired people to build Lego sets.
+Matt Shifrin is a blind high school student. In 2016, he created a system for blind and visually impaired people to build Lego sets.
 
-Introduced by a mutual friend, we set out to build a site to bring his project to the world.
+My friend Sharon introduced me to Matt later that year; I was impressed by his creativity and ambition. We teamed up to build a site to host Lego for the Blind.
 
 Check it out: <br>
 [legofortheblind.com](http://legofortheblind.com)
 
 Press: <br>
 ![Alt]({{site.baseurl}}/img/popularscience.jpg)
+<br>
 ![Alt]({{site.baseurl}}/img/aolnews.jpg)
+<br>
 ![Alt]({{site.baseurl}}/img/mentalfloss.jpg)

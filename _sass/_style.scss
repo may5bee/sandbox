@@ -67,6 +67,10 @@ html, body {
     color: black;
 }
 
+.title-size {
+  font-size: 3rem;
+}
+
 /**For medium page only***/
 canvas[resize] {
     width: 100%;
@@ -126,7 +130,7 @@ canvas[resize] {
     line-height: 1.6;
 }
 
-.post {
+.project {
          a {
             text-decoration: underline;
         }

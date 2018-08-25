@@ -7,11 +7,11 @@ technologies:
 category: physical
 tags:
 ---
-<i>Unrivaled Under Heaven</i> is a historical epic set in 18th century China. A farmer who is a huge loser in his community accidentally kills a notorious bandit (a la 2011's Rango), inadvertently becoming a celebrity. Thrust into the spotlight, he gains the attention of the local and national populace, becoming a leader not by his own volition but by the expectations of the people around him.
+<i>Unrivaled Under Heaven</i> is a historical epic set in 18th century China. A farmer who is a huge loser in his community accidentally kills a notorious bandit (a la 2011's Rango), becoming a celebrity. Thrust into the spotlight, he gains the attention of the local and national populace, becoming a leader not by his own volition but by the expectations of the people around him.
 
 <!-- The question I want to pose is almost Dickensian: are people born great, or do circumstances make them great?  -->
 
-Writing this now (2017), I realize the story was very personal. I was painfully shy growing up. A corollary of being very shy is the tendency to avoid people. My social skills withered as my avoidance grew. I became incredibly depressed. Desperate for a way out of my self-imposed isolation, I told myself that I needed to fix my problem by any means necessary.
+Writing this now (2017), I realize the story was very personal. I was painfully shy growing up. In my adolescence, my social skills withered as my avoidance grew. I became incredibly depressed. Desperate for a way out of my self-imposed isolation, I told myself that I needed to fix my problem by any means necessary.
 
 I took on people facing service jobs. I remember being too shy to look at customers in the eye. I did weird social challenges, like lying on the sidewalk and high-fiving strangers. I read books with cheesy titles like <i>How to Talk to Anyone</i>. Over the next few months my social skills improved by leaps and bounds. When people started to look to me for leadership, I was bewildered and deeply humbled. It's this feeling, this feeling when people perceive you entirely different to how you perceive yourself, that I wanted to capture with Wudi, the protagonist of <i>Unrivaled</i>.
 
