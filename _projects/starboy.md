@@ -1,0 +1,33 @@
+---
+layout: project
+title: "Starboy: a game about teaching code semantics"
+description: ""
+date: 2016-8-14 09:37:43 +0800
+technologies:
+category: physical
+tags:
+---
+
+![Alt]({{site.baseurl}}/img/starboy/starboy1.png/)
+
+![Alt]({{site.baseurl}}/img/starboy/starboy2.png/)
+
+Starboy (reduct) is a puzzle game that teaches code semantics to children.
+
+I did game design and narrative. We submitted and were accepted to CHI EA '17:
+
+![Alt]({{site.baseurl}}/img/starboy/chi.png/)
+
+https://dl.acm.org/doi/abs/10.1145/3027063.3048415
+
+
+![Alt]({{site.baseurl}}/img/starboy/starboy5.png/)
+
+![Alt]({{site.baseurl}}/img/starboy/starboy3.png/)
+
+![Alt]({{site.baseurl}}/img/starboy/starboy4.png/)
+
+And look at these fun programming concept aliens!
+
+![Alt]({{site.baseurl}}/img/starboy/alien1.jpg/)
+![Alt]({{site.baseurl}}/img/starboy/alien2.jpg/)

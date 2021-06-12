@@ -1,0 +1,5 @@
+I"~
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">index</span> <span class="o">=</span> <span class="p">{};</span>
+  <span class="nx">index</span><span class="p">.</span><span class="nx">pi</span> <span class="o">=</span> <span class="mf">3.14</span><span class="p">;</span></code></pre></figure>
+
+:ET

@@ -1,0 +1,4 @@
+I"“<script src="/sandbox/js/processing.min.js"></script>
+
+<canvas data-processing-sources="/sandbox/assets/spaceinvaders/spaceinvaders.pde"></canvas>
+:ET
