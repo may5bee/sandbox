@@ -1,0 +1,16 @@
+I"e<!-- <div class="thumbnail size-1-1">
+
+  	<div class="resource pink-border">
+
+         <a class="link" href="/sandbox">
+
+  			<img class="image" src="/img/" width="100%" onmouseover="this.src='/img/';" onmouseout="this.src='/img/';">
+
+  			<div><span class="title"></span></div>
+
+  	</div>
+
+    <div class="caption">
+	<p class="small"></p></div>
+</div> -->
+:ET

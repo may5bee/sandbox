@@ -7,8 +7,8 @@ title: "Sandbox"
 {% for project in site.projects reversed%}
 {% if project.title%}{% if project.ignore != "yes" %}
 {% if project.altlink %}<a class="proj-link link hover-bg-yellow" href="{{ project.altlink }}">{% else %}  <a class="proj-link link hover-bg-yellow db" href="{{ project.url | prepend: site.baseurl }}">{% endif %}
-<span class="pl3 helvetica title-size lh-title fw5">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
-<span class="helvetica light-gray date title-size lh-title fw5">&nbsp;{{ project.date | date: '%Y'}}</span>
+<span class="pl3 helvetica title-size lh-title ">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
+<span class="helvetica light-gray date title-size lh-title fw4 date">&nbsp;{{ project.date | date: '%Y'}}</span>
 </a>
 
 {% endif %}{% endif %}

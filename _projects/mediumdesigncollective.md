@@ -2,11 +2,11 @@
 layout: full
 title: Medium
 description: ""
-date: 2016-12-01 20:37:43 +0800
+date: 2015-12-01 20:37:43 +0800
 technologies:
 category: web
 tags:
-description: Identity work for Medium Design Collective, an interdisciplinary design group at Cornell University.
+description: Identity work for Medium Collective, an interdisciplinary design group at Cornell University.
 ---
 
 
@@ -91,5 +91,5 @@ description: Identity work for Medium Design Collective, an interdisciplinary de
   <canvas id="canvas" resize hidpi="off" style="background:white"></canvas>
   <div class="medium">
     <h1>medium</h1>
-    <h2>design collective</h2>
+    
 </div>

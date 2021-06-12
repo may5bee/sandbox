@@ -176,10 +176,22 @@ a:hover {
         color: black;
     }
     a:hover .title{
-        background: yellow;
+        background: red;
         color: black;
+        
     }
 }
+
+.link:hover {
+    span {
+    font-weight: 900;
+    }
+    .date {
+        color: #D9B864;
+    }
+}
+
+
 
 
 .thumbnail:after {

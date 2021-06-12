@@ -1,4 +1,4 @@
-I"<canvas class="w-100 h-100" resize="true" id="myCanvas" style="background:#FFFFFF"></canvas>
+I"<canvas class="w-100 h-100" resize="true" id="myCanvas" style="background:rgb(241,145, 146)"></canvas>
 
 <script type="text/javascript" src="/sandbox/js/paper-full.js"></script>
 

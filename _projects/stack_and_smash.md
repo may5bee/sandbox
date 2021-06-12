@@ -9,6 +9,6 @@ tags:
 ---
 <iframe src="https://player.vimeo.com/video/244050283" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Stack and Smash
-Art and design: Kevin Ma
+Stack and Smash <br>
+Art and design: Kevin Ma <br>
 Code: Mike Elfenbein, Stephen Mah, Geoffrey Goh

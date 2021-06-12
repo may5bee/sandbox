@@ -10,7 +10,7 @@ tags:
 
 ![Alt]({{site.baseurl}}/img/starboy/starboy1.png/)
 
-![Alt]({{site.baseurl}}/img/starboy/starboy2.png/)
+![Alt]({{site.baseurl}}/img/starboy/starboy2.jpg/)
 
 Starboy (reduct) is a puzzle game that teaches code semantics to children.
 
@@ -23,11 +23,11 @@ https://dl.acm.org/doi/abs/10.1145/3027063.3048415
 
 ![Alt]({{site.baseurl}}/img/starboy/starboy5.png/)
 
-![Alt]({{site.baseurl}}/img/starboy/starboy3.png/)
+![Alt]({{site.baseurl}}/img/starboy/starboy3.jpg/)
 
-![Alt]({{site.baseurl}}/img/starboy/starboy4.png/)
+![Alt]({{site.baseurl}}/img/starboy/starboy4.jpg/)
 
 And look at these fun programming concept aliens!
 
-![Alt]({{site.baseurl}}/img/starboy/alien1.jpg/)
-![Alt]({{site.baseurl}}/img/starboy/alien2.jpg/)
+![Alt]({{site.baseurl}}/img/starboy/aliens1.jpg/)
+![Alt]({{site.baseurl}}/img/starboy/aliens2.jpg/)

@@ -1,16 +1,16 @@
 ---
 layout: full
-title: "Magnetic Field"
+title: "Magnetic Needles"
 description: ""
 date: 2016-7-14 09:37:43 +0800
 technologies:
 category: physical
 tags:
 permalink: "/field"
-description: Simulating a magnetic field. Click for fun.
+description: Here we simulating a magnetic field, the cursor is the magnet. Click to shuffle.
 ---
 
-<canvas class="w-100 h-100" resize="true" id="myCanvas" style="background:#FFFFFF"></canvas>
+<canvas class="w-100 h-100" resize="true" id="myCanvas" style="background:rgb(241,145, 146)"></canvas>
 
 <script type="text/javascript" src="{{site.baseurl}}/js/paper-full.js"></script>
 <script type="text/paperscript" canvas="myCanvas">
