@@ -16,7 +16,7 @@ Want to Hire Better Engineers? Open Source Your Code - For Angelist
 ![Alt]({{site.baseurl}}/img/inbloom/illo/recruit.png/)
 3 Ways to Show Your Work Had Business Impact - For Angelist
 
-![Alt]({{site.baseurl}}/img/inbloom/illo/plant.png/)
+![Alt]({{site.baseurl}}/img/inbloom/plant.png/)
 For The Cornell Daily Sun 
 
 
