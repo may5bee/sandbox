@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Starboy: a game about teaching code semantics"
+title: "Starboy: teaching kids to code"
 description: ""
 date: 2016-8-14 09:37:43 +0800
 technologies:

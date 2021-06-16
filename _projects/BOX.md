@@ -26,6 +26,6 @@ BOX is on the games site Kongregate but unfortunately cannot be played anymore a
 
 ![Alt]({{site.baseurl}}/img/box/box5.png/)
 
-![Alt]({{site.baseurl}}/img/box/cloud.png/)
+![Alt]({{site.baseurl}}/img/box/clouds.png/)
 ![Alt]({{site.baseurl}}/img/box/sprites.png/)
 
