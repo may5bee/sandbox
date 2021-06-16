@@ -45,12 +45,6 @@ Tsutomu Nihei is an artist who conceives of a world in which building robots los
 
 ![Alt]({{site.baseurl}}/img/inbloom/blame.jpeg)
 
-Scary? 
-
-Yet, we are drawn to chaos.
-
-Think of Hong Kong's Kowloon Walled City and how it has captured popular imagination:
-
 "The Kowloon Walled City in Hong Kong was once the most densely populated place on earth, a teeming hive of interlinking high-rises that few dared to enter buy 33,000 people called home. Demolished two decades ago, the virtually lawless labyrinth still lives on in movies, books and even a Japanese theme park" 
 
 ![Alt]({{site.baseurl}}/img/inbloom/kowloon.jpeg)
