@@ -7,14 +7,15 @@ title: "Sandbox"
 {% for project in site.projects reversed%}
 {% if project.title%}{% if project.ignore != "yes" %}
 {% if project.altlink %}<a class="proj-link link hover-bg-yellow" href="{{ project.altlink }}">{% else %}  <a class="proj-link link hover-bg-yellow db" href="{{ project.url | prepend: site.baseurl }}">{% endif %}
-<span class="pl3 helvetica title-size f3 f2-m f1-ns lh-title ">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
-<span class="pl3 helvetica light-gray date title-size f3 f2-m f1-ns lh-title fw4 date">{{ project.date | date: '%Y'}}</span>
+<div class="pl3 pr3"><span class=" helvetica title-size f3 f2-m f1-ns lh-title ">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
+<span class=" helvetica light-gray date title-size f3 f2-m f1-ns lh-title fw4 date">{{ project.date | date: '%Y'}}</span></div>
 </a>
 
 {% endif %}{% endif %}
 {% endfor %}
+<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">"There's simultaneously a childlike playfulness and a blunt seriousness to his work" - Marc DeBartholomeis, VP Brand @ Yahoo!</div>
 
-<span class="pl3 helvetica f1-ns f3 f2-m lh-title ">This site is built with tachyons.io and paper.js</span>
+<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">This site is built with tachyons.io and paper.js</span>
 
 </div>
 <!--

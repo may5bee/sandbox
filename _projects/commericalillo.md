@@ -11,15 +11,16 @@ description: Commercial Illustration for editorial/brand/web
 
 
 ![Alt]({{site.baseurl}}/img/illo/opensource.png)
-Want to Hire Better Engineers? Open Source Your Code - For Angelist
+## Want to Hire Better Engineers? Open Source Your Code - For Angelist
 
 ![Alt]({{site.baseurl}}/img/illo/recruit.png)
-3 Ways to Show Your Work Had Business Impact - For Angelist
+## 3 Ways to Show Your Work Had Business Impact - For Angelist
 
 ![Alt]({{site.baseurl}}/img/illo/plant.png)
-For The Cornell Daily Sun 
+## How Has Technology Changed the Concept of Progress? - For The Cornell Daily Sun
 
 
 ![Alt]({{site.baseurl}}/img/illo/eden.jpg)
-For The Cornell Daily Sun 
+## "You could also make apple pie, apple fritters, apple cider, apple crispsss..." - For The Cornell Daily Sun
+
 

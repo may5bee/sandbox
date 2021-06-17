@@ -16,9 +16,9 @@ On the surface, Turtle Time resembles every other business game: it features pro
 
 Players discover the twist when they realize the customers are impossibly slow. The turtles that come to your cafe take days in real time to enter the cafe, converse, order, and eat.
 
-Initially frustrating, Turtle Time evokes the question: what does progress look like when severed from ideas of efficiency and output?
+Initially frustrating, Turtle Time evokes the question: what does progress look like when distanced from output?
 
-When players realize advancement is foolhardy, they are forced to either quit or explore what else the game has to offer. Quiet observation of the environment and its guests reveal a world of nuance.
+When players realize that change will happen on a timescale far greater than their patience can accommodate, they have two options: wait, or see what else the game has to offer. Quiet observation of the environment and its guests reveal a world of nuance.
 
 The experience is almost therapeutic.
 
