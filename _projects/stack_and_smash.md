@@ -13,5 +13,4 @@ Stack and Smash by ManDown!Studios.
 
 Simple but hilariously fun physics game.
 
-I did design and art. 
 

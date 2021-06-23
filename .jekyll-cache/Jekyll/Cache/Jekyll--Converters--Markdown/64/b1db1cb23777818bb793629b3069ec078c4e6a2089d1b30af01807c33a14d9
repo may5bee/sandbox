@@ -1,6 +1,0 @@
-I"õ<p>Made this with alex in 30 minutes. Click into the game and UP to start.</p>
-
-<script src="/sandbox/js/processing.min.js"></script>
-
-<canvas class="ml6 pt5" data-processing-sources="/sandbox/assets/totalcollision/totalcollision.pde"></canvas>
-:ET

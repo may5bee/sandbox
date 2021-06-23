@@ -8,7 +8,11 @@ category: web
 tags:
 description: 
 ---
-Commercial Illustration for editorial/brand/web
+
+You have a cool brief? great! We decide on the metaphor, we brainstorm some directions and we run with one of them.
+
+email:
+may5bee@protonmail.com
 
 
 ---
@@ -39,12 +43,6 @@ Commercial Illustration for editorial/brand/web
 
 ## "Smarthomes" - For The Cornell Daily Sun
 ![Alt]({{site.baseurl}}/img/illo/smarthome.jpeg)
-
----
-
-
-## Critters - For HTC One
-![Alt]({{site.baseurl}}/img/illo/htc.gif)
 
 ---
 
