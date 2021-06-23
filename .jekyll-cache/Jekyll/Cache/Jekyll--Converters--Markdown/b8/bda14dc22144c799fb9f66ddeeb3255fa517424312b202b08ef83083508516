@@ -1,0 +1,8 @@
+I""<p>A: I want to make an endless runner like the chrome dead page thing</p>
+
+<p>K: OK let’s do it</p>
+
+<p>30 mins later:
+<script src="/sandbox/js/processing.min.js"></script></p>
+<canvas class="ml6 pt5" data-processing-sources="/sandbox/assets/totalcollision/totalcollision.pde"></canvas>
+:ET

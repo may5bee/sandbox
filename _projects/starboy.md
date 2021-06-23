@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Starboy: teaching kids to code"
+title: "Starboy"
 description: ""
 date: 2016-8-14 09:37:43 +0800
 technologies:

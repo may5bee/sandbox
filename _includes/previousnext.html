@@ -1,6 +1,6 @@
-<a class="w-50 fixed fl bottom-0 left-0 helvetica f3-ns f5 ">
+<a class="w-50 fixed fl bottom-0 left-0 helvetica f3-ns f5 " href="{{site.baseurl}}{{page.previous.url}}">
  {% if page.next.url != false %}{% if page.next.ignore != "yes" %}
- <div class="pl2 pb2  w-100 next link hover-bg-yellow bg-show-small" href="{{site.baseurl}}{{page.previous.url}}">previous: {{page.previous.title}} 
+ <div class="pl2 pb2  w-100 next link hover-bg-yellow bg-show-small" > {{page.previous.title}} 
  	{% endif %}{% endif %}
 </div>
 </a>
@@ -8,7 +8,7 @@
 <a class="w-50 fixed tr fr bottom-0 right-0 helvetica f3-ns f5 bg-show-small hover-bg-yellow" href="{{site.baseurl}}{{page.next.url}}">
 {% if page.previous.url != false %}{% if page.previous.ignore != "yes" %}
 <div class="pr2 pb2  w-100  prev link" >
- next: {{page.next.title}}
+  {{page.next.title}}
 
 </div>
  {% endif %}{% endif %}

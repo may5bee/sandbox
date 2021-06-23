@@ -6,16 +6,22 @@ title: "Sandbox"
 
 {% for project in site.projects reversed%}
 {% if project.title%}{% if project.ignore != "yes" %}
-{% if project.altlink %}<a class="proj-link link hover-bg-yellow" href="{{ project.altlink }}">{% else %}  <a class="proj-link link hover-bg-yellow db" href="{{ project.url | prepend: site.baseurl }}">{% endif %}
+{% if project.altlink %}
+<a class="proj-link link hover-bg-yellow" href="{{ project.altlink }}">
+{% else %}  
+<a class="proj-link link hover-bg-yellow db" href="{{ project.url | prepend: site.baseurl }}">{% endif %}
 <div class="pl3 pr3"><span class=" helvetica title-size f3 f2-m f1-ns lh-title ">{% if project.alttitle %}{{project.alttitle | upcase}}{% else %}{{ project.title}}{% endif %}</span>
-<span class=" helvetica light-gray date title-size f3 f2-m f1-ns lh-title fw4 date">{{ project.date | date: '%Y'}}</span></div>
+<span class=" helvetica light-gray date title-size f3 f2-m f1-ns lh-title fw4 date">{{ project.date | date: '%Y'}}</span>
+</div>
 </a>
 
 {% endif %}{% endif %}
 {% endfor %}
-<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">"There's simultaneously a childlike playfulness and a blunt seriousness to his work" - Marc DeBartholomeis, VP Brand @ Yahoo!</div>
+<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">❝his stuff is very childish and very serious at the same time❞ - Marc D., VP Brand @ Yahoo!</div>
 
-<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">This site is built with tachyons.io and paper.js</span>
+<div class="ph3 helvetica f1-ns f3 f2-m lh-title ">㋛ 2017 this site is built with <a class="link hover-bg-yellow dib" href="https://tachyons.io">tachyons.io</a> ㋛</div>
+
+<a class="ph3 proj-link link hover-bg-yellow db" href="{{site.baseurl}}/goodies"><span class=" helvetica f1-ns f3 f2-m lh-title ">✵ Super awesome shit to give you more energy and make you look better (links) ✵</span></a>
 
 </div>
 <!--
