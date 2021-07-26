@@ -73,25 +73,13 @@ This is an important one. AKA making decisions for groups of people.
 
 Mini example: At work and everybody's wondering where to eat lunch.
 
-Make the decision. Just put anything out there. 
+Make the decision. Just put anything out there. It doesn't matter what you say. At worst it will get a conversation going.
 
-People will subconsciously be thankful, even if they don't realize it. 
+People will subconsciously be thankful, and they won't realize it. 
 
 [Best thing I read in 2019 and it's short too](https://neilkakkar.com/computational-kindness.html)
 
-Implementing this practice, you'll realize it extends far, far beyond lunch choice.
-
-## Happy Feet
-
-This is an odd one. It also works. This is a tip from Navarro's "what every body is saying"
-
-The body language of our feet are the truest indicators of how we feel inside. This is because our ancient response to a dangerous situation had to start in our feet, if we decided to run away or fight!
-
-Observe peoples' feet in public transit on a weekday compared to a weekend. On weekdays feet don't move. They are glued on the ground. Of course - people have to work and they don't want to! On the other hand, you'll be surprised at how many "happy feet" you see on weekends...feet will be tapping up and down, or dancing every which way! This is the natural behavior of feet when people are relaxed or excited.
-
-The next time you are upset, frustrated, or sad try rapidly tapping your feet, or bouncing your heel on the ground up and down, as long as you can. You might realize how quickly your emotions can change! 
-
-Even better - try this the next time you find yourself in a tense, confrontational situation. You will relax, and you can choose to disarm the situation with relative ease.
+Implementing, you'll realize it extends far, far beyond lunch choice.
 
 ## Approval Seeking
 
@@ -101,18 +89,15 @@ Take a quiet moment and ask whose approval you're seeking in the things that you
 
 For me it was (and still is?) my dad's. 
 
-I'd get frustrated when he didn't "acknowledge" that I had accomplished, or when I felt like he was lecturing me on a topic I knew more about.
+I'd get frustrated when he didn't "acknowledge" something that I had accomplished, or when I felt like he was lecturing me on a topic I knew more about.
 
-The most interesting part of this was that I could have spent a lifetime carrying this frustration without knowing it. Just walking away from our conversations with a tiny feeling of resentment.
+The most interesting part of this was that I could have spent a lifetime carrying this frustration without knowing it. Just walking away from our conversations with a tiny feeling of resentment and never questioning it.
 
-I think it's natural that a lot of our decisions are driven by need for approval. I've noticed some feel this more strongly towards their parents, some towards their peers.
+I think most peoples' decisions are driven by need for approval. I've noticed some feel this more strongly towards their parents, some towards their peers.
 
 But nobody can give us this approval the way we imagine it. Literally nobody.
 
 For the best portrayal I've seen of this in art, watch [The Meyerwitz stories](https://www.youtube.com/watch?v=2HJ0Ld6kcQE)
 
-Highly recommend breaking down "feelings of desire from approval from X" with a good friend or psych.
-
-Or just something to think about.
-
+Highly recommend breaking down your "desire for approval from X" with a good friend or psych. It might be uncomfortable as shit, and that's a good sign you should talk about it. 
 
